@@ -3,7 +3,7 @@
 ### 1️⃣ Clone the repository
 ```bash
 git clone <repository-url>
-cd Intern_Assignment
+cd your_filename
 
 pip install -r requirements.txt
 python src/main.py
@@ -62,7 +62,7 @@ Live scraping and LLM API calls are intentionally avoided to ensure reproducibil
 
 ## 📂 Repository Structure
 
-asana-rl-seed-data/
+Intern_assignment/
 ├── schema.sql # Database schema (DDL)
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
